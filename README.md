@@ -1,4 +1,4 @@
-# 🏬 Spring MVC – Malls & Shops Management System
+# 🏬 My First Spring MVC App – Malls & Shops Management System
 
 **Technologies:** `Java`, `Spring MVC`, `JSP`, `HTML`, `CSS`
 
